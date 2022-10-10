@@ -1,0 +1,28 @@
+1660711925249	Delete element
+1660711977367	Rename package 'com.loanapp.loan.model'
+1660711989179	Rename package 'com.loanapp.loan.service'
+1660712022783	Rename package 'com.loanapp.loantr.repository'
+1660712259829	Rename type 'nasabah'
+1660713274007	Rename type 'UserApp'
+1660713298768	Rename type 'UserApp_nasabah_map'
+1660721852074	Rename type 'UserAppNasabahMap'
+1660722533671	Rename type 'LoanApplicationDataEntry'
+1660722911726	Delete element
+1660723349299	Rename local variable 'customerData'
+1660723947787	Rename type 'masterUserApp'
+1660734290398	Rename type 'LoanDataEntryDto'
+1660734322335	Rename type 'LoanDataEntry'
+1660734348691	Rename type 'LoanDataEntry'
+1660742050825	Rename field 'nasabahService'
+1660761094530	Rename type 'Parameter'
+1660763554344	Copy compilation unit
+1660763581949	Copy compilation unit
+1660814449398	Copy compilation unit
+1660814575746	Copy compilation unit
+1660814606582	Copy compilation unit
+1660840135016	Copy compilation unit
+1660840152698	Copy compilation unit
+1660840169630	Copy compilation unit
+1660851952536	Delete element
+1660852519042	Delete element
+1660854750052	Delete element

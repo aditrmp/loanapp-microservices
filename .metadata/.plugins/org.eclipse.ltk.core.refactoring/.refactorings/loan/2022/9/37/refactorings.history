@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.loanapp.loan.config&apos; to &apos;scoring/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;loan&apos;&#x0D;&#x0A;- Destination element: &apos;scoring/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;loan/src/main/java/com.loanapp.loan.config&apos;" description="Copy package" destination="=scoring/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.loanapp.loan.config" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1662664127866" version="1.0"/>
+</session>
